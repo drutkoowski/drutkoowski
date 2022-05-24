@@ -8,6 +8,11 @@
   <a href="https://www.facebook.com/drutkoowski/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  
+   <a href="mailto:d.rutkowski2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
 </div>
 <div align="center"> <img id="badges" src="https://komarev.com/ghpvc/?username=drutkoowski&style=flat-square&color=blue" alt="counter views"/> </div>
 <h1 align="center">
