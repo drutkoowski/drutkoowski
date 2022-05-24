@@ -25,10 +25,8 @@
 ### :man_technologist: About Me :
 I am a young programmer interested in Python and its frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
-- :telescope: I’m learning as a Back-end Developer and contributing to backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  I’m learning as a Back-end Developer and contributing to backend for building web applications.
 
 - :zap: I like spending my free time active or messing up with the code
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/> <a href="mailto:d.rutkowski2000@gmail.com" target="_blank">d.rutkowski2000@gmail.com</a>
