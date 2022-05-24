@@ -1,4 +1,4 @@
-<body color="blue"
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -43,6 +43,8 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 ### :hammer_and_wrench: Languages and tools I currently learn:
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask"width="40"height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/> &nbsp;
+
 </div>
-</body>
+
