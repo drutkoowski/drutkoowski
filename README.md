@@ -59,6 +59,6 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 
 
 ### ⚙️: Deployment:
-<div align="center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/> &nbsp;
 </div>
