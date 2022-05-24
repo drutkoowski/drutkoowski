@@ -45,6 +45,6 @@ I am a young programmer interested in Python and its frameworks <img src="https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask"width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/> &nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="Pycharm" width="40" height="40"/> &nbsp;
 </div>
 
