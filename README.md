@@ -35,3 +35,8 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 - :zap: I like spending my free time active or messing up with the code
 
 - :mailbox:How to reach me: <a href="mailto:d.rutkowski2000@gmail.com" target="_blank">d.rutkowski2000@gmail.com</a>
+
+---
+
+
+### :hammer_and_wrench: Languages and Tools :
