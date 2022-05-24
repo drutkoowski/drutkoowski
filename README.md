@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center"> <img id="badges" src="https://komarev.com/ghpvc/?username=drutkoowski&style=flat-square&color=blue" alt="counter views"/> </div>
-<h1>
+<h1 align="center">
   hey you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
