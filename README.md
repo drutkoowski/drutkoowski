@@ -78,4 +78,4 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drutkoowski&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drutkoowski)](https://github.com/anuraghazra/github-readme-stats)
+
