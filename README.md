@@ -55,3 +55,10 @@ I am a young programmer interested in Python and its frameworks <img src="https:
    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/> &nbsp;
 </div>
 
+---
+
+
+### ⚙️: Deployment:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/> &nbsp;
+</div>
