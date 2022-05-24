@@ -19,7 +19,6 @@
 <div align="center"> <img id="badges" src="https://komarev.com/ghpvc/?username=drutkoowski&style=flat-square&color=blue" alt="counter views"/> </div>
 <h1 align="center">
   hey you!
-  <p>My name is Damian Rutkowski, nice to meet you!</p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -31,7 +30,7 @@
 
 ### :man_technologist: About Me :
 I am a young programmer interested in Python and its frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
-
+- :call_me_hand: Hello, I am Damian Rutkowski
 - :seedling:  I’m learning as a Back-end Developer and contributing to backend for building web applications.
 
 - :zap: I like spending my free time active or messing up with the code
