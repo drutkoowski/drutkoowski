@@ -58,7 +58,8 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 ---
 
 
-### ⚙️: Deployment:
+### ⚙️ Deployment:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/> &nbsp;
+  <img src="https://symbols.getvecta.com/stencil_75/50_beanstalk.60420ba5be.svg" title="AWS Elastic Beanstalk" alt="AWS Elastic Beanstalk" width="40" height="40"/> &nbsp;
 </div>
