@@ -31,7 +31,7 @@
 ### :man_technologist: About Me :
 I am a young programmer interested in Python and its frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - :call_me_hand: I am Damian Rutkowski
-- Age: 22
+- 📅: 22 years old
 - :seedling:  I’m learning as a Back-end Developer and contributing to backend for building web applications.
 
 - :zap: I like spending my free time active or messing up with the code
