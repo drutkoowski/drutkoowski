@@ -80,10 +80,10 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drutkoowski&theme=dark&background=000000)](https://git.io/streak-stats)
 
- ### :project: My Projects :
+ ### :man_technologist: My Projects :
  <div>
   <div>
-    <h4>Flask</h4>
+    <h2>Flask</h2><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask"width="20"height="20"/>&nbsp;
     <a href='evening-coast-61297.herokuapp.com'>Nutri App</a>
   </div>
  </div>
