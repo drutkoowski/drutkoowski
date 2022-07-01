@@ -86,16 +86,16 @@ I am a young programmer interested in Python and its frameworks <img src="https:
   <div>
     <h2 style='display: inline-block'>Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary"        title="Flask" alt="Flask"width="20"height="20"/>&nbsp;</h2>
     <a style='margin-top: 1rem; display: block' href='evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
-    <a style='margin-top: 1rem; display: block' href='drutkowski-blog.herokuapp.com'>Blog App</a>
-    <a style='margin-top: 1rem; display: block' href='study-friendly-spots.herokuapp.com'>Study Friendly Spots App</a>
-    <a style='margin-top: 1rem; display: block' href='infinite-chamber-33064.herokuapp.com'>Company Drivers Management App</a>
+    <a style='margin-top: 1rem' href='drutkowski-blog.herokuapp.com'>Blog App</a><br>
+    <a style='margin-top: 1rem' href='study-friendly-spots.herokuapp.com'>Study Friendly Spots App</a><br>
+    <a style='margin-top: 1rem' href='infinite-chamber-33064.herokuapp.com'>Company Drivers Management App</a> <br>
   </div>
   
    <div>
     <h2 style='display: inline-block'>Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="20" height="20"/> &nbsp;</h2>
-    <a style='margin-top: 1rem; display: block' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
-    <a style='margin-top: 1rem; display: block' href='thawing-scrubland-61997.herokuapp.com'>InstaClone App</a>
-    <a style='margin-top: 1rem; display: block' href='#'>Blog Django App</a>
+    <a style='margin-top: 1rem' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
+    <a style='margin-top: 1rem' href='thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
+    <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
   </div>
   
  </div>
