@@ -84,8 +84,8 @@ I am a young programmer interested in Python and its frameworks <img src="https:
  <div>
   <div>
     <h2 style='display: inline-block'>Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask"width="20"height="20"/>&nbsp;</h2>
-    <a href='evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
-    <a href='drutkowski-blog.herokuapp.com'>Blog App</a>
+    <a style='margin-top: 1rem' href='evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
+    <a style='margin-top: 1rem' href='drutkowski-blog.herokuapp.com'>Blog App</a>
   </div>
  </div>
 
