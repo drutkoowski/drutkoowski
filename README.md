@@ -98,5 +98,9 @@ I am a young programmer interested in Python and its frameworks <img src="https:
     <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
   </div>
   
+   <h2 style='display: inline-block'>Django <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
+    <a style='margin-top: 1rem' href='rutkowski-forkify.netlify.app'>Forkify App</a> <br>
+  </div>
+  
  </div>
 
