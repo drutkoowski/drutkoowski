@@ -96,6 +96,7 @@ I am a young programmer interested in Python and its frameworks <img src="https:
     <a style='margin-top: 1rem' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
     <a style='margin-top: 1rem' href='thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
     <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
+    <a style='margin-top: 1rem' href='https://github.com/drutkoowski/Nutri-Django'>Django Nutri (in progress)</a> <br>
   </div>
   
    <h2 style='display: inline-block'>Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
