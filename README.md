@@ -32,7 +32,7 @@
 I am a young programmer interested in Python and its frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - :call_me_hand: I am Damian Rutkowski
 - 📅 22 years old
-- :seedling:  I’m learning as a Back-end Developer and contributing for building web applications.
+- :seedling:  I’m learning as a Web Developer and contributing for building web applications.
 
 - :zap: I like spending my free time active or messing up with the code
 
@@ -81,9 +81,34 @@ I am a young programmer interested in Python and its frameworks <img src="https:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drutkoowski&theme=dark&background=000000)](https://git.io/streak-stats)
 
- ### :man_technologist: My Projects :
+ ### :man_technologist: Main Projects :
+<div>
+   <div>
+     <h4>Nutri</h4>
+     <p>Description: Nutri is an web app created for people who want to learn more about their nutrition and the exercises they do.</p>
+     <a href='https://nutri-django.herokuapp.com/en/'>DEMO</a> <br>
+     <a href='https://github.com/drutkoowski/Nutri-Django'>REPO</a> <br>
+  </div>
+   <div>
+     <h4>Django Ecommerce</h4>
+     <p>Description: Django Ecommerce application is an online clothing store handling payment for goods.</p>
+     <a href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>DEMO</a> <br>
+     <a href='https://github.com/drutkoowski/django-ecommerce'>REPO</a> <br>
+  </div>
+  <div>
+     <h4>InstaClone</h4>
+     <p>Description: InstaClone is a social media application patterned on the popular Instagram.</p>
+     <a href='https://thawing-scrubland-61997.herokuapp.com'>DEMO</a> <br>
+     <a href='https://github.com/drutkoowski/django-social-media'>REPO</a> <br>
+  </div>
+</div>
+
+
+---
+
+
+<h3>All the projects by language</h3>
  <div>
-  
   <div>
     <h2 style='display: inline-block'>Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary"        title="Flask" alt="Flask"width="20"height="20"/>&nbsp;</h2>
     <a style='margin-top: 1rem; display: block' href='https://evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
@@ -97,7 +122,7 @@ I am a young programmer interested in Python and its frameworks <img src="https:
     <a style='margin-top: 1rem' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
     <a style='margin-top: 1rem' href='thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
     <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
-    <a style='margin-top: 1rem' href='https://nutri-django.herokuapp.com/pl/'>Django Nutri (in progress)</a> <br>
+    <a style='margin-top: 1rem' href='https://nutri-django.herokuapp.com/pl/'>Django Nutri</a> <br>
   </div>
   
    <h2 style='display: inline-block'>Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
