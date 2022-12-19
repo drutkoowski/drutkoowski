@@ -84,22 +84,23 @@ I am a young programmer interested in Python and its frameworks <img src="https:
  ### :man_technologist: Main Projects :
 <div>
    <div>
-     <h4>Nutri</h4>
-     <p>Description: Nutri is an web app created for people who want to learn more about their nutrition and the exercises they do.</p>
+     <h2>Nutri</h4>
+     <p>Nutri is an web app created for people who want to learn more about their nutrition and the exercises they do.</p>
      <a href='https://nutri-django.herokuapp.com/en/'>DEMO</a> <br>
      <a href='https://github.com/drutkoowski/Nutri-Django'>REPO</a> <br>
+     <img src='https://github.com/drutkoowski/Nutri-Django/raw/master/static/images/dashboard_readme.png' title='Nutri' alt='Nutri'/>&nbsp;
   </div>
    <div>
-     <h4>Django Ecommerce</h4>
-     <p>Description: Django Ecommerce application is an online clothing store handling payment for goods.</p>
-     <a href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>DEMO</a> <br>
-     <a href='https://github.com/drutkoowski/django-ecommerce'>REPO</a> <br>
+     <h2>Django Ecommerce</h4>
+     <p>Django Ecommerce application is an online clothing store handling payment for goods.</p>
+     <a href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>DEMO</a> / <a href='https://github.com/drutkoowski/django-ecommerce'>REPO</a> <br>
+     <img src='https://github.com/drutkoowski/django-ecommerce/blob/master/static/images/readme/main_page.png' title='DjangoEcommerce' alt='DjangoEcommerce'/>&nbsp;
   </div>
   <div>
-     <h4>InstaClone</h4>
-     <p>Description: InstaClone is a social media application patterned on the popular Instagram.</p>
-     <a href='https://thawing-scrubland-61997.herokuapp.com'>DEMO</a> <br>
-     <a href='https://github.com/drutkoowski/django-social-media'>REPO</a> <br>
+     <h2>InstaClone</h4>
+     <p>InstaClone is a social media application patterned on the popular Instagram.</p>
+     <a href='https://thawing-scrubland-61997.herokuapp.com'>DEMO</a> / <a href='https://github.com/drutkoowski/django-social-media'>REPO</a> <br>
+     <img src="https://github.com/drutkoowski/django-social-media/blob/master/readme/login_page.png" title="InstaClone" alt="InstaClone"/> &nbsp;
   </div>
 </div>
 
