@@ -86,8 +86,7 @@ I am a young programmer interested in Python and its frameworks <img src="https:
    <div>
      <h2>Nutri</h4>
      <p>Nutri is an web app created for people who want to learn more about their nutrition and the exercises they do.</p>
-     <a href='https://nutri-django.herokuapp.com/en/'>DEMO</a> <br>
-     <a href='https://github.com/drutkoowski/Nutri-Django'>REPO</a> <br>
+     <a href='https://nutri-django.herokuapp.com/en/'>DEMO</a> / <a href='https://github.com/drutkoowski/Nutri-Django'>REPO</a> <br>
      <img src='https://github.com/drutkoowski/Nutri-Django/raw/master/static/images/dashboard_readme.png' title='Nutri' alt='Nutri'/>&nbsp;
   </div>
    <div>
