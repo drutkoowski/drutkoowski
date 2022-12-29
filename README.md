@@ -29,10 +29,10 @@
 
 
 ### :man_technologist: About Me :
-I am a young programmer interested in Python and its frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+I am a young programmer interested in Python and its web frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 - :call_me_hand: I am Damian Rutkowski
 - 📅 22 years old
-- :seedling:  I’m learning as a Web Developer and contributing for building web applications.
+- :seedling:  I’m learning as a Web Developer and contributing for building web applications mainly using Django and Javascript/Vue.
 
 - :zap: I like spending my free time active or messing up with the code
 
@@ -113,20 +113,26 @@ I am a young programmer interested in Python and its frameworks <img src="https:
     <h2 style='display: inline-block'>Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary"        title="Flask" alt="Flask"width="20"height="20"/>&nbsp;</h2>
     <a style='margin-top: 1rem; display: block' href='https://evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
     <a style='margin-top: 1rem' href='drutkowski-blog.herokuapp.com'>Blog App</a><br>
-    <a style='margin-top: 1rem' href='study-friendly-spots.herokuapp.com'>Study Friendly Spots App</a><br>
-    <a style='margin-top: 1rem' href='infinite-chamber-33064.herokuapp.com'>Company Drivers Management App</a> <br>
+    <a style='margin-top: 1rem' href='https://study-friendly-spots.herokuapp.com'>Study Friendly Spots App</a><br>
+    <a style='margin-top: 1rem' href='https://stark-coast-16790.herokuapp.com'>Company Drivers Management App</a> <br>
   </div>
   
    <div>
     <h2 style='display: inline-block'>Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="20" height="20"/> &nbsp;</h2>
     <a style='margin-top: 1rem' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
-    <a style='margin-top: 1rem' href='thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
+    <a style='margin-top: 1rem' href='http://thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
     <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
     <a style='margin-top: 1rem' href='https://nutri-django.herokuapp.com/pl/'>Django Nutri</a> <br>
   </div>
   
-   <h2 style='display: inline-block'>Javascript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
-    <a style='margin-top: 1rem' href='rutkowski-forkify.netlify.app'>Forkify App</a> <br>
+  <div>
+   <h2 style='display: inline-block'>Vue <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="20" height="20"/> &nbsp;</h2>
+    <a style='margin-top: 1rem' href='https://github.com/drutkoowski/Musicly'>Musicly ( in progress)</a> <br>
+  </div>
+  
+  <div>
+   <h2 style='display: inline-block'>Javascript Vanilla<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
+    <a style='margin-top: 1rem' href='https://rutkowski-forkify.netlify.app'>Forkify App</a> <br>
   </div>
   
  </div>
