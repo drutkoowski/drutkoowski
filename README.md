@@ -131,7 +131,7 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
   </div>
   
   <div>
-   <h2 style='display: inline-block'>Javascript Vanilla<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
+   <h2 style='display: inline-block'>Javascript Vanilla <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
     <a style='margin-top: 1rem' href='https://rutkowski-forkify.netlify.app'>Forkify App</a> <br>
   </div>
   
