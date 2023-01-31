@@ -38,7 +38,7 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
 
 - :mailbox:How to reach me: <a href="mailto:d.rutkowski2000@gmail.com" target="_blank">d.rutkowski2000@gmail.com</a>
 
-- Portfolio: https://damian-rutkowski-portfolio.vercel.app
+- 📑 Portfolio: https://damian-rutkowski-portfolio.vercel.app
 ---
 
 
