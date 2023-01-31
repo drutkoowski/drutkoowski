@@ -96,6 +96,14 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
      <a href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>DEMO</a> / <a href='https://github.com/drutkoowski/django-ecommerce'>REPO</a> <br>
      <img src='https://github.com/drutkoowski/django-ecommerce/blob/master/static/images/readme/main_page.png' title='DjangoEcommerce' alt='DjangoEcommerce'/>&nbsp;
   </div>
+  
+  <div>
+    <h2>Converseo</h2>
+    <p>Converseo is an web app allowing the users to communicate with each other and look for new acquaintances.</p>
+     <a href='http://3.127.135.129'>DEMO</a> / <a href='https://github.com/drutkoowski/Converseo'>REPO</a> <br>
+     <img src="https://github.com/drutkoowski/Converseo/raw/master/readme/dashboard_readme.png" title="Converseo" alt="Converseo"/> &nbsp;
+  </div>
+  
   <div>
      <h2>InstaClone</h4>
      <p>InstaClone is a social media application patterned on the popular Instagram.</p>
