@@ -91,10 +91,10 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
      <img src='https://github.com/drutkoowski/Nutri-Django/raw/master/static/images/dashboard_readme.png' title='Nutri' alt='Nutri'/>&nbsp;
   </div>
    <div>
-     <h2>Django Ecommerce</h4>
-     <p>Django Ecommerce application is an online clothing store handling payment for goods.</p>
-     <a href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>DEMO</a> / <a href='https://github.com/drutkoowski/django-ecommerce'>REPO</a> <br>
-     <img src='https://github.com/drutkoowski/django-ecommerce/blob/master/static/images/readme/main_page.png' title='DjangoEcommerce' alt='DjangoEcommerce'/>&nbsp;
+     <h2>Mate&Chill</h4>
+     <p>Mate&Chill is an ecommerce web application with products mainly related to Yerba Mate.</p>
+     <a href='http://18.192.210.224'>DEMO</a> / <a href='https://github.com/drutkoowski/Mate-Chill'>REPO</a> <br>
+     <img src='https://github.com/drutkoowski/Mate-Chill/blob/master/readme/main_image.png?raw=true' title='Mate&Chill' alt='Mate&Chill'/>&nbsp;
   </div>
   
   <div>
