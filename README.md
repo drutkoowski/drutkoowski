@@ -16,7 +16,7 @@
   </a>
   
 </div>
-<div align="center"> <img id="badges" src="https://komarev.com/ghpvc/?username=drutkoowski&style=flat-square&color=blue" alt="counter views"/> </div>
+<div align="center"><img id="badges" src="https://komarev.com/ghpvc/?username=drutkoowski&style=flat-square&color=blue" alt="counter views"/></div>
 <h1 align="center">
   hey you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -57,7 +57,7 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
 </div>
 
 ---
