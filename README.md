@@ -30,6 +30,7 @@
 
 ### :man_technologist: About Me :
 I am a young programmer interested in Python and its web frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+Currently working at Smart Cylinders in Norway, Oslo.
 - :call_me_hand: I am Damian Rutkowski
 - 📅 23 years old
 - :seedling:  I’m learning as a Web Developer and contributing for building web applications mainly using Django and Javascript/Vue.
