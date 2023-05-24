@@ -34,7 +34,7 @@ I am a young programmer interested in Python and its web frameworks <img src="ht
 Currently working at Smart Cylinders in Norway, Oslo.
 - :call_me_hand: I am Damian Rutkowski
 - 📅 23 years old
-- :seedling:  I’m learning as a Web Developer and contributing for building web applications mainly using Django and Javascript/Vue.
+- :seedling:  I’m working as a Full Stack Developer building web applications mainly using Django and JavaScript (React or Vue).
 
 - :zap: I like spending my free time active or messing up with the code
 
@@ -44,18 +44,20 @@ Currently working at Smart Cylinders in Norway, Oslo.
 ---
 
 
-### :hammer_and_wrench: Languages and tools I currently learn:
+### :hammer_and_wrench: Languages and tools I currently use:
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary" title="Flask" alt="Flask"width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="Pycharm" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
@@ -84,7 +86,7 @@ Currently working at Smart Cylinders in Norway, Oslo.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drutkoowski&theme=dark&background=000000)](https://git.io/streak-stats)
 
- ### :man_technologist: Main Projects :
+<!--  ### :man_technologist: Main Projects :
 <div>
    <div>
      <h2>Nutri</h4>
@@ -149,5 +151,5 @@ Currently working at Smart Cylinders in Norway, Oslo.
     <a style='margin-top: 1rem' href='https://rutkowski-forkify.netlify.app'>Forkify App</a> <br>
   </div>
   
- </div>
+ </div> -->
 
