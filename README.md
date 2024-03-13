@@ -58,16 +58,15 @@ Currently working at Smart Cylinders in Norway, Oslo.
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/> &nbsp;
 </div>
 
 ---
 
 
-### ⚙️ Deployment:
+### ⚙️ Cloud:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/> &nbsp;
-  <img src="https://symbols.getvecta.com/stencil_9/32_aws-elastic-beanstalk.3cbb564d52.svg" title="AWS Elastic Beanstalk" alt="AWS Elastic Beanstalk" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> &nbsp;
 </div>
 
 ---
@@ -82,71 +81,4 @@ Currently working at Smart Cylinders in Norway, Oslo.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drutkoowski&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!--  ### :man_technologist: Main Projects :
-<div>
-   <div>
-     <h2>Nutri</h4>
-     <p>Nutri is an web app created for people who want to learn more about their nutrition and the exercises they do.</p>
-     <a href='https://nutri-django.herokuapp.com/en/'>DEMO</a> / <a href='https://github.com/drutkoowski/Nutri-Django'>REPO</a> <br>
-     <img src='https://github.com/drutkoowski/Nutri-Django/raw/master/static/images/dashboard_readme.png' title='Nutri' alt='Nutri'/>&nbsp;
-  </div>
-   <div>
-     <h2>Mate&Chill</h4>
-     <p>Mate&Chill is an ecommerce web application with products mainly related to Yerba Mate.</p>
-     <a href='http://18.192.210.224'>DEMO</a> / <a href='https://github.com/drutkoowski/Mate-Chill'>REPO</a> <br>
-     <img src='https://github.com/drutkoowski/Mate-Chill/blob/master/readme/main_image.png?raw=true' title='Mate&Chill' alt='Mate&Chill'/>&nbsp;
-  </div>
-  
-  <div>
-    <h2>Converseo</h2>
-    <p>Converseo is an web app allowing the users to communicate with each other and look for new acquaintances.</p>
-     <a href='http://3.127.135.129'>DEMO</a> / <a href='https://github.com/drutkoowski/Converseo'>REPO</a> <br>
-     <img src="https://github.com/drutkoowski/Converseo/raw/master/readme/dashboard_readme.png" title="Converseo" alt="Converseo"/> &nbsp;
-  </div>
-  
-  <div>
-     <h2>InstaClone</h4>
-     <p>InstaClone is a social media application patterned on the popular Instagram.</p>
-     <a href='https://thawing-scrubland-61997.herokuapp.com'>DEMO</a> / <a href='https://github.com/drutkoowski/django-social-media'>REPO</a> <br>
-     <img src="https://github.com/drutkoowski/django-social-media/blob/master/readme/login_page.png" title="InstaClone" alt="InstaClone"/> &nbsp;
-  </div>
-</div>
-
-
----
-
-
-<h3>All the projects by language</h3>
- <div>
-  <div>
-    <h2 style='display: inline-block'>Flask <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" class="text-primary"        title="Flask" alt="Flask"width="20"height="20"/>&nbsp;</h2>
-    <a style='margin-top: 1rem; display: block' href='https://evening-coast-61297.herokuapp.com'>Nutri App</a> <br>
-    <a style='margin-top: 1rem' href='drutkowski-blog.herokuapp.com'>Blog App</a><br>
-    <a style='margin-top: 1rem' href='https://study-friendly-spots.herokuapp.com'>Study Friendly Spots App</a><br>
-    <a style='margin-top: 1rem' href='https://stark-coast-16790.herokuapp.com'>Company Drivers Management App</a> <br>
-  </div>
-  
-   <div>
-    <h2 style='display: inline-block'>Django <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="20" height="20"/> &nbsp;</h2>
-    <a style='margin-top: 1rem' href='http://django-env.eba-f3bedqv2.eu-central-1.elasticbeanstalk.com'>Django Ecommerce App</a> <br>
-    <a style='margin-top: 1rem' href='http://thawing-scrubland-61997.herokuapp.com'>InstaClone App</a> <br>
-    <a style='margin-top: 1rem' href='#'>Blog Django App</a> <br>
-    <a style='margin-top: 1rem' href='https://nutri-django.herokuapp.com/pl/'>Django Nutri</a> <br>
-     <a style='margin-top: 1rem' href='https://github.com/drutkoowski/Converseo'>Converseo</a> <br> 
-  </div>
-  
-  
-  <div>
-   <h2 style='display: inline-block'>Vue <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="20" height="20"/> &nbsp;</h2>
-    <a style='margin-top: 1rem' href='https://musicly-ten.vercel.app'>Musicly</a> <br>
-    <a style='margin-top: 1rem' href='https://damian-rutkowski-portfolio.vercel.app'>Porfolio</a> <br>
-  </div>
-  
-  <div>
-   <h2 style='display: inline-block'>Javascript Vanilla <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="20" height="20"/> &nbsp;</h2>
-    <a style='margin-top: 1rem' href='https://rutkowski-forkify.netlify.app'>Forkify App</a> <br>
-  </div>
-  
- </div> -->
 
