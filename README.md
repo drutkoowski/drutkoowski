@@ -34,7 +34,7 @@ I am a programmer interested in web development <img src="https://media.giphy.co
 Currently working at ULAM Labs in Wroclaw, Poland.
 - :call_me_hand: I am Damian Rutkowski
 - 📅 24 years old
-- :seedling:  I’m working as a Full Stack Developer building web applications mainly using Django (REST or GraphQL) and JavaScript (React, Vue, NodeJS).
+- :seedling:  I’m working as a Full Stack Developer building web applications mainly using Django (REST or GraphQL) and TypeScript (React, Vue, NodeJS).
 
 - :zap: I like spending my free time active or messing up with the code
 
