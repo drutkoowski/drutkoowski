@@ -39,8 +39,6 @@ Currently working at ULAM Labs in Wroclaw, Poland.
 - :zap: I like spending my free time active or messing up with the code
 
 - :mailbox:How to reach me: <a href="mailto:d.rutkowski2000@gmail.com" target="_blank">d.rutkowski2000@gmail.com</a>
-
-- 📑 Portfolio: https://damian-rutkowski-portfolio.vercel.app
 ---
 
 
